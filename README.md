@@ -26,4 +26,4 @@ This project replicates the visual layout of YouTube to understand the fundament
 The project is in a basic but functional state. Additional improvements like interactivity, search functionality, and mobile responsiveness are planned.
 
 
-*Made with ❤ by [Prajwal Chand](https://github.com/eshuthakurathi)*
+*Made with ❤ by [Prajwal Chand]
